@@ -1,0 +1,21 @@
+div{
+                background-color: goldenrod;
+                width: 300px;
+                /* lebar */
+                padding: 25px;
+                /* ruang antara konten dan border  */
+                border: 25px solid rgb(158, 152, 152);
+                /* garis antara padding dan margin - ukuran style - color */
+                margin: 25px;
+                text-align: center;
+            }
+            .pc{
+                background-color: rgb(144, 190, 15);
+                text-align: center;
+            }
+            #pid{
+                border-style:ridge dashed dotted solid;
+            }
+            h1,p{
+                text-align: center;
+            }
